@@ -14,5 +14,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 ● Do sales figures vary between geographic regions?
 
-# Data
-The data set can be found here: [blockbuster.zip] (C:\Users\msyeu\OneDrive\Documents\Data Analytics\Data Immersion\Rockbuster\Rockbuster.tar)
+
