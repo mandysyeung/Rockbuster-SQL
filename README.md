@@ -1,3 +1,7 @@
+
+![istockphoto-1642381175-612x612](https://github.com/mandysyeung/Rockbuster-SQL/assets/172212512/7085e15d-e58d-4650-be28-effc66455dce)
+
+
 # Rockbuster-SQL
 This SQL project was part of CareerFoundry's Data Analytics course in which I analyzed the PostgreSQL sample database of a fictional DVD rental company. 
 
