@@ -13,3 +13,6 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+# Data
+The data set can be found here: [blockbuster.zip] (C:\Users\msyeu\OneDrive\Documents\Data Analytics\Data Immersion\Rockbuster\Rockbuster.tar)
