@@ -14,4 +14,9 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 ● Do sales figures vary between geographic regions?
 
+# Data & Tools
+Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster's film inventory, customers, payments, stores, staff, actors, film genre, rental history including rental durations, and addresses. 
+
+# Visualization
+Tableau visualization can be found here: [Top 10 countries with the highest customers count](https://public.tableau.com/app/profile/mandy.yeung8359/viz/Rockbuster_CustomerCountByRegion/Sheet1)
 
